@@ -54,3 +54,4 @@ t<-trimfill(r11)
 t
 t=funnel(t)
 
+
